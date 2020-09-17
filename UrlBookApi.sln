@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunctionalService", "Functi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModelService", "ModelService\ModelService.csproj", "{57DD0BE7-2260-4BDF-A76D-A7BA6B888FFF}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UrlBookApiTest.Mock", "UrlBookApiTest\UrlBookApiTest.Mock.csproj", "{92224690-594A-489F-BCFA-96C059E83712}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{57DD0BE7-2260-4BDF-A76D-A7BA6B888FFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{57DD0BE7-2260-4BDF-A76D-A7BA6B888FFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{57DD0BE7-2260-4BDF-A76D-A7BA6B888FFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92224690-594A-489F-BCFA-96C059E83712}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92224690-594A-489F-BCFA-96C059E83712}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92224690-594A-489F-BCFA-96C059E83712}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92224690-594A-489F-BCFA-96C059E83712}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

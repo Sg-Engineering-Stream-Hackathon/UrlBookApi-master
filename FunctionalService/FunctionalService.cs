@@ -35,7 +35,7 @@ namespace FunctionalService
                     LastName = _appUserOptions.LastName,
                     UserRole = role,
                     isAdmin = isAdmin
-                 };
+                };
 
                 var result = await _userManager.CreateAsync(appUser, _appUserOptions.Password);
 
@@ -58,3 +58,4 @@ namespace FunctionalService
         }
     }
 }
+
